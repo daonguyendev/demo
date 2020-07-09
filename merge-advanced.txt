@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 make conflict here
+=======
+this is merge file
+>>>>>>> a937b95f867997220f163b6b3f699326300de959
